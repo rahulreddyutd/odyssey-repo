@@ -115,11 +115,4 @@ portfolio/
     └── impact-estimation.md
 ```
 
----
 
-## Contact
-
-[Your Name]  
-[your.email@email.com]  
-[LinkedIn URL]  
-[Loom walkthrough URL — recommended: 2–3 min overview of all 3 projects]
