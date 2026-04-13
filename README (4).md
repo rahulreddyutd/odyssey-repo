@@ -23,7 +23,7 @@ Each case study is structured the way real product work is done: grounded in dat
 
 **Impact target:** Homepage CTR +41% · Search abandonment -26% · Pages/session +56%
 
-→ [View Project](./README(5).md)
+→ [View Project](README (5).md)
 
 ---
 
