@@ -34,7 +34,7 @@ Each case study is structured the way real product work is done: grounded in dat
 
 **Impact target:** Bid completion +21% · Mobile completion +33% · Outbid re-bid rate +77% · +$8–12M monthly GMV
 
-→ [View Project](./bidding-experience-optimization/README.md)
+→ [View Project](https://github.com/rahulreddyutd/odyssey-repo/blob/f896add2eab40eb41991dbd0e0019e6b98b296ec/README%20(6).md)
 
 ---
 
