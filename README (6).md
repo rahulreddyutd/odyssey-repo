@@ -41,7 +41,7 @@ A redesigned end-to-end bidding experience across four areas:
 
 | Document | Description |
 |----------|-------------|
-| [`PRD.md`](PRD.md) | Full product requirements — problem, solution, user stories, risks, rollout plan |
+| [`PRD.md`](PRD(1).md) | Full product requirements — problem, solution, user stories, risks, rollout plan |
 | [`current-vs-proposed-flow.md`](current-vs-proposed-flow.md) | Side-by-side ASCII flow diagrams; drop-off analysis; UX change table |
 | [`kpi-framework.md`](kpi-framework.md) | 4-layer KPI framework: inputs, outputs, revenue, guardrails + impact model |
 | [`ab-testing-plan.md`](ab-testing-plan.md) | 5 experiments with hypotheses, sample sizes, and ethical guardrails |
