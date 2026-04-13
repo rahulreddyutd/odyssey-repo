@@ -45,7 +45,7 @@ Each case study is structured the way real product work is done: grounded in dat
 
 **Impact target:** Completion rate 34% → 55% · Time to submit -50% · Seller retention +50% · +$9.6M monthly GMV
 
-→ [View Project](./consignment-funnel-optimization/README.md)
+→ [View Project](https://github.com/rahulreddyutd/odyssey-repo/blob/d3bb0088669b7c6f1bc5c63572351cbf525ba493/PRD%20(2).md)
 
 ---
 
