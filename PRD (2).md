@@ -3,7 +3,7 @@
 
 **Product Area:** Seller Experience / Supply Growth  
 **Status:** Draft  
-**Author:** [Your Name]  
+**Author:** Rahul Reddy Puchakayala 
 **Last Updated:** April 2026  
 **Target Launch:** Q3 2026
 
