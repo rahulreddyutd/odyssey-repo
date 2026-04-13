@@ -38,7 +38,7 @@ A redesigned consignment funnel addressing the top 5 abandonment drivers:
 
 | Document | Description |
 |----------|-------------|
-| [`PRD.md`](PRD.md) | Full product requirements — problem, all 4 features, user stories, risks |
+| [`PRD.md`](https://github.com/rahulreddyutd/odyssey-repo/blob/d3bb0088669b7c6f1bc5c63572351cbf525ba493/PRD%20(2).md) | Full product requirements — problem, all 4 features, user stories, risks |
 | [`funnel-analysis.md`](funnel-analysis.md) | Stage-by-stage drop-off data, segment analysis, root cause findings |
 | [`user-journey-map.md`](user-journey-map.md) | Full emotional journey map — current vs. future state, phase by phase |
 | [`experiment-roadmap.md`](experiment-roadmap.md) | 5 experiments with hypotheses, sample sizes, and expected outcomes |
